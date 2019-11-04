@@ -5,7 +5,7 @@ from fnmatch import fnmatchcase
 from distutils.util import convert_path
 from setuptools import setup, find_packages
 
-VERSION = '0.0.7'
+VERSION = '1.0.0'
 
 
 def read(*parts):
